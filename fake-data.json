@@ -1,14 +1,16 @@
-"steps": [
-  {
-    "id": "d127f4a0-b3b0-4f69-b646-2b723224b885",
-    "description": "Entender o problema do cliente"
-  },
-  {
-    "id": "7f97c7a8-bad1-4d3e-b440-cd7af8c855e8",
-    "description": "Desenvolver a solução do problema"
-  },
-  {
-    "id": "90042226-850f-443f-8d50-befe9195877b",
-    "description": "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro"
-  }
-]
+{
+  "passos": [
+    {
+      "id": "d8edd9be-15f2-4e53-8854-1ee6f5bc8759",
+      "description": "Entender o problema do cliente"
+    },
+    {
+      "id": "cf092163-4ec5-4e63-800c-3fd287ec14cb",
+      "description": "Desenvolver a solução do problema"
+    },
+    {
+      "id": "ed27ec04-0428-48c6-8d46-2f93c6fe4a46",
+      "description": "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro"
+    }
+  ]
+}
